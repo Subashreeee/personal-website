@@ -1,0 +1,66 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  color: black;
+  margin-top:50;
+   font-size: 90px;
+   font-family: "Lucida Handwriting";
+   background-color: #E0FFFF;
+
+ }
+h2{
+ font-family: "Garamond";
+ font-weight: lighter;
+ font-size:20;
+ color: black;
+
+}
+body{
+  background-color: #E0FFFF;
+}
+.b1{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: top;
+  text-decoration: none;
+ display: inline-block;
+  font-size: 16px;
+  margin-left:1000;
+
+
+
+}
+.b2{
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: relative;
+
+  margin-left:500;
+}
+.b3{
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 35px;
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  position: relative;
+  margin-left:500;
+}
+
+.btn{
+  position: absolute;
+  bottom:0;
+}
